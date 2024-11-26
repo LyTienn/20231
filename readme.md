@@ -1,3 +1,13 @@
+ANH ƠI
+EM Ở LỚP JAVA THỰC HÀNH 744527
+HIỆN TẠI TEAMS CỦA EM VÌ 1 LÍ DO NÀO ĐÓ MÀ BỊ LOGOUT SAI MẬT KHẨU HIỆN TẠI EM KHÔNG VÀO ĐƯỢC
+HẠN NỘP BÁO CÁO CHO BÀI JAVA LAB3 LÀ TỐI NAY THÌ EM XIN PHÉP NỘP MUỘN TRÊN TEAMS ĐƯỢC KHÔNG Ạ VÌ CHỜ CẤP LẠI MẬT KHẨU SIS EM THẤY HƠI LÂU
+TRÊN GITHUB THÌ EM VẪN NỘP ĐÚNG HẠN
+EM CẢM ƠN NHIỀU Ạ
+
+
+
+
 # 20231
 18/09/2023 - 02/02/2024 (16 wks of studying + 1 wk of midterm break + 3 wks of final break).
 
